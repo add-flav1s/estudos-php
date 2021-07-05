@@ -47,11 +47,11 @@
                                             <label for="">Nome da task</label>
                                             <input type="text" required name="task" class="form-control">
                                         </div>
-                                        <input type="submit" name="send">
+                                        <input type="submit" name="send" value="Enviar" class="btn btn-success">
                                     </form>
                                 </div>
                                 <div class="modal-footer">
-                                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                                    <button type="button" class="btn btn-default" data-dismiss="modal">Fechar</button>
                                 </div>
                             </div>
 
